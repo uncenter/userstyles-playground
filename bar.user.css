@@ -1,0 +1,14 @@
+/* ==UserStyle==
+@name           bar
+@namespace      github.com/uncenter/userstyles-playground/bar
+@updateURL https://github.com/uncenter/userstyles-playground/raw/main/bar.user.css
+@version        1.0.0
+@description    A new userstyle
+@author         uncenter
+==/UserStyle== */
+
+@-moz-document domain("example.com") {
+  html {
+    background-color: blue;
+  }
+}
